@@ -11,13 +11,12 @@ I am a Ph.D. candidate in Computer Science and Technology at the University of T
 
 I am currently exploring opportunities as an LLM Engineer or Algorithm Engineer, as well as postdoctoral positions and research collaborations. I enjoy work that sits close to both research and systems.
 
-Research Interests
+Research Focus
 ======
 
-* Large language model fine-tuning, LoRA/QLoRA, PEFT, and model merging
-* Personalized and federated learning under heterogeneous data distributions
-* RAG, parametric memory, tool-use/function calling, and agent workflows
-* LLM evaluation, ablation studies, and failure analysis
+* Federated learning under heterogeneous data distributions
+* Large language model fine-tuning
+* Multi-Agent Systems
 
 Selected Publications
 ======
