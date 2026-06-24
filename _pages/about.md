@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computer Science and Technology at the University of Technology Sydney, advised by Prof. Guodong Long. My research focuses on personalized and efficient learning for large-scale AI systems, with recent work spanning LLM fine-tuning, parameter-efficient adaptation, federated personalization, model merging, memory-augmented generation, and tool-use/function-calling systems.
+I am a Ph.D. candidate in Computer Science and Technology at the University of Technology Sydney, advised by Prof. Guodong Long. My research focuses on collaborative learning and federated learning. Recently, I have also become interested in agent RL and related topics, and I am actively looking for research collaborations.
 
-I am currently exploring opportunities as an LLM Engineer or Algorithm Engineer, as well as postdoctoral positions and research collaborations. I enjoy work that sits close to both research and systems: building reproducible training pipelines, designing personalization methods, evaluating model behavior, and turning ideas around LoRA/PEFT, RAG, memory, and model merging into working LLM systems.
+I am currently exploring opportunities as an LLM Engineer or Algorithm Engineer, as well as postdoctoral positions and research collaborations. I enjoy work that sits close to both research and systems.
 
 Research Interests
 ======
