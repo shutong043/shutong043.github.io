@@ -7,58 +7,34 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can download my latest CV here: [resume_en.pdf](/files/resume_en.pdf).
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+* **Ph.D. in Computer Science and Technology**, University of Technology Sydney, Faculty of Engineering and Information Technology, May 2023 - Feb. 2027 (expected)
+  * Fully funded international Ph.D. student
+* **M.Eng. in Intelligent Science and Technology**, Xidian University, School of Artificial Intelligence, Sep. 2019 - Jun. 2022
+* **B.Eng. in Intelligent Science and Technology**, Xidian University, School of Artificial Intelligence, Sep. 2015 - Jun. 2019
+  * Ranked in the top 15% of the program
+
+Technical Skills
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming and frameworks:** Python, PyTorch, Hugging Face Transformers, PEFT, vLLM
+* **LLM training:** LoRA/QLoRA, SFT, prompt tuning, model merging, GRPO basics
+* **LLM applications:** RAG, memory systems, tool-use, function calling, agent workflows
+* **Evaluation:** ROUGE, exact match, Recall@K, ablation studies, failure analysis
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+Reviewing and Honors
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* Reviewer for ICML, NeurIPS, ICLR, AISTATS, AAAI, TNNLS, and other conferences/journals.
+* Academic Excellence Scholarships at Xidian University: Third Prize in 2017, Second Prize in 2018, Second Prize in 2021.
